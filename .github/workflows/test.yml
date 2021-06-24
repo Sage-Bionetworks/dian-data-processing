@@ -14,8 +14,6 @@ name: R-test-that
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
       
     steps:
       - name: Checkout repo
@@ -33,8 +31,7 @@ jobs:
           R -e 'install.packages("R2HTML")'
           R -e 'install.packages("jsonlite")'
          
-      - name: Build site
-        run: Rscript -e 'bookdown::render_book("index.Rmd", quiet = TRUE)'
+      - name: run tests
         run: |
           library(testthat)
           testthat::test_dir(testthat::test_path())
