@@ -55,6 +55,6 @@ jobs:
           _R_CHECK_CRAN_INCOMING_REMOTE_: false
         run: |
           library(testthat)
-		  testthat::test_dir(testthat::test_path())
+          testthat::test_dir(testthat::test_path())
         shell: Rscript {0}
 
