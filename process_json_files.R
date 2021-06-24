@@ -25,7 +25,9 @@ process_json_files<-function(files) {
 	
 	for (i in 1:n_files){
 	  file <- files[i]
-	  
+	  if (!file.exists(file)) {
+	  	stop(sprintf("File %s does not exist.", file))
+	  }
 	  foo <- fromJSON(file)
 	  
 	  subid <- foo$participant_id
