@@ -20,6 +20,5 @@ where
 Before using the code be sure it works by running the tests in the `tests/testthat` directory:
 
 ```
-library(testthat)
 testthat::test_dir(testthat::test_path())
 ```
