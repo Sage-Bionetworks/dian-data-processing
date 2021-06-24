@@ -13,7 +13,7 @@ name: R-test-that
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: macOS-latest
       
     steps:
       - name: Checkout repo
@@ -32,6 +32,4 @@ jobs:
           R -e 'install.packages("jsonlite")'
          
       - name: run tests
-        run: |
-          library(testthat)
-          testthat::test_dir(testthat::test_path())
+        run: Rscript -e 'testthat::test_dir(testthat::test_path())'
