@@ -13,6 +13,7 @@ name: R-test-that
 
 jobs:
   build:
+    name: Test
     runs-on: macOS-latest
       
     steps:
