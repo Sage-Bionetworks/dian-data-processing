@@ -1,0 +1,472 @@
+{
+    "app_version": "2.1.3",
+    "day": 0,
+    "device_id": "95f516de-dbc4-4800-9732-63e2fdd397f1",
+    "finished_session": 0,
+    "id": "0",
+    "interrupted": -99,
+    "missed_session": 0,
+    "model_version": "3",
+    "participant_id": "466501",
+    "session": 0,
+    "session_date": 1624726946.36,
+    "session_id": "0",
+    "start_time": 1624726947.607,
+    "timezone_name": "Central Standard Time",
+    "timezone_offset": "UTC-05:00",
+    "week": 0,
+    "os_type": "Android",
+    "os_version": "11",
+    "chronotype_survey": {
+        "questions": [
+            {
+                "display_time": 1624726950.439,
+                "question": "I have been a shift- or night-worker in the past three months.",
+                "question_id": "chronotype_1",
+                "response_time": 1624726951.744,
+                "text_value": "Yes",
+                "type": "choice",
+                "value": 1
+            },
+            {
+                "display_time": 1624726952.267,
+                "question": "Normally, I work ____ days\/week",
+                "question_id": "chronotype_2",
+                "response_time": 1624726953.145,
+                "text_value": "4",
+                "type": "choice",
+                "value": 4
+            },
+            {
+                "display_time": 1624726955.144,
+                "question": "On workdays, I normally fall asleep at:",
+                "question_id": "chronotype_3",
+                "response_time": 1624726956.736,
+                "type": "time",
+                "value": "4:00 PM"
+            },
+            {
+                "display_time": 1624726957.439,
+                "question": "On workdays, I normally wake up at:",
+                "question_id": "chronotype_4",
+                "response_time": 1624726961.803,
+                "type": "time",
+                "value": "9:00 AM"
+            },
+            {
+                "display_time": 1624726962.531,
+                "question": "On work-free days when I don't use an alarm clock, I normally fall asleep at:",
+                "question_id": "chronotype_5",
+                "response_time": 1624726963.37,
+                "type": "time",
+                "value": "4:00 PM"
+            },
+            {
+                "display_time": 1624726964.034,
+                "question": "On work-free days when I don't use an alarm clock, I normally wake up at:",
+                "question_id": "chronotype_6",
+                "response_time": 1624726965.176,
+                "type": "time",
+                "value": "1:00 PM"
+            }
+        ],
+        "start_date": 1624726950.439,
+        "type": "chronotype"
+    },
+    "context_survey": {
+        "questions": [
+            {
+                "display_time": 1624726979.649,
+                "question": "Who is with you right now?",
+                "question_id": "context_1",
+                "response_time": 1624726980.409,
+                "text_value": "Co-workers",
+                "type": "checkbox",
+                "value": [
+                    4
+                ]
+            },
+            {
+                "display_time": 1624726980.998,
+                "question": "Where are you right now?",
+                "question_id": "context_2",
+                "response_time": 1624726981.766,
+                "text_value": "Another Person's Home",
+                "type": "choice",
+                "value": 3
+            },
+            {
+                "display_time": 1624726982.828,
+                "question": "How would you rate your overall mood right now?",
+                "question_id": "context_3",
+                "response_time": 1624726983.746,
+                "type": "slider",
+                "value": 1
+            },
+            {
+                "display_time": 1624726984.265,
+                "question": "How would you rate how you feel right now?",
+                "question_id": "context_4",
+                "response_time": 1624726985.042,
+                "type": "slider",
+                "value": 1
+            },
+            {
+                "display_time": 1624726985.578,
+                "question": "In the past 5 minutes, what were you mostly doing?",
+                "question_id": "context_5",
+                "response_time": 1624726986.319,
+                "text_value": "Socializing",
+                "type": "choice",
+                "value": 6
+            }
+        ],
+        "start_date": 1624726979.649,
+        "type": "context"
+    },
+    "grid_test": {
+        "date": 1624727031.039,
+        "sections": [
+            {
+                "choices": [
+                    {
+                        "grid_selection_time": 26.25,
+                        "image": "pen",
+                        "image_selection_time": 26.936,
+                        "x": 1,
+                        "y": 1
+                    },
+                    {
+                        "grid_selection_time": 24.932,
+                        "image": "key",
+                        "image_selection_time": 25.518,
+                        "x": 3,
+                        "y": 2
+                    },
+                    {
+                        "grid_selection_time": 22.467,
+                        "image": "phone",
+                        "image_selection_time": 24.362,
+                        "x": 3,
+                        "y": 4
+                    }
+                ],
+                "display_distraction": 5.078,
+                "display_symbols": 2.009,
+                "display_test_grid": 19.147,
+                "e_count": 0,
+                "f_count": 0,
+                "images": [
+                    {
+                        "image": "phone",
+                        "x": 2,
+                        "y": 1
+                    },
+                    {
+                        "image": "pen",
+                        "x": 0,
+                        "y": 2
+                    },
+                    {
+                        "image": "key",
+                        "x": 1,
+                        "y": 4
+                    }
+                ]
+            },
+            {
+                "choices": [
+                    {
+                        "grid_selection_time": 54.569,
+                        "image": "phone",
+                        "image_selection_time": 55.307,
+                        "x": 1,
+                        "y": 2
+                    },
+                    {
+                        "grid_selection_time": 55.775,
+                        "image": "key",
+                        "image_selection_time": 56.448,
+                        "x": 3,
+                        "y": 2
+                    },
+                    {
+                        "grid_selection_time": 57.165,
+                        "image": "pen",
+                        "image_selection_time": 57.789,
+                        "x": 2,
+                        "y": 4
+                    }
+                ],
+                "display_distraction": 32.774,
+                "display_symbols": 29.725,
+                "display_test_grid": 46.84,
+                "e_count": 0,
+                "f_count": 0,
+                "images": [
+                    {
+                        "image": "phone",
+                        "x": 0,
+                        "y": 3
+                    },
+                    {
+                        "image": "pen",
+                        "x": 4,
+                        "y": 2
+                    },
+                    {
+                        "image": "key",
+                        "x": 1,
+                        "y": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "price_test": {
+        "date": 1624727181.496,
+        "sections": [
+            {
+                "alt_price": "\u00a38.64",
+                "correct_index": 0,
+                "good_price": 99,
+                "item": "cola",
+                "price": "\u00a32.37",
+                "question_display_time": 53.143,
+                "selected_index": 0,
+                "selection_time": 55.223,
+                "stimulus_display_time": 0.004
+            },
+            {
+                "alt_price": "\u00a38.35",
+                "correct_index": 0,
+                "good_price": 99,
+                "item": "tortilla",
+                "price": "\u00a36.93",
+                "question_display_time": 43.445,
+                "selected_index": 0,
+                "selection_time": 46.725,
+                "stimulus_display_time": 3.047
+            },
+            {
+                "alt_price": "\u00a37.85",
+                "correct_index": 0,
+                "good_price": 99,
+                "item": "cotton wool",
+                "price": "\u00a39.67",
+                "question_display_time": 36.879,
+                "selected_index": 1,
+                "selection_time": 39.655,
+                "stimulus_display_time": 6.091
+            },
+            {
+                "alt_price": "\u00a33.29",
+                "correct_index": 1,
+                "good_price": 99,
+                "item": "conditioner",
+                "price": "\u00a36.37",
+                "question_display_time": 33.973,
+                "selected_index": 0,
+                "selection_time": 36.878,
+                "stimulus_display_time": 9.137
+            },
+            {
+                "alt_price": "\u00a37.21",
+                "correct_index": 0,
+                "good_price": 99,
+                "item": "hand cream",
+                "price": "\u00a31.57",
+                "question_display_time": 50.818,
+                "selected_index": 0,
+                "selection_time": 53.14,
+                "stimulus_display_time": 12.177
+            },
+            {
+                "alt_price": "\u00a33.46",
+                "correct_index": 1,
+                "good_price": 99,
+                "item": "cottage cheese",
+                "price": "\u00a31.78",
+                "question_display_time": 39.657,
+                "selected_index": 0,
+                "selection_time": 43.443,
+                "stimulus_display_time": 15.211
+            },
+            {
+                "alt_price": "\u00a33.76",
+                "correct_index": 0,
+                "good_price": 99,
+                "item": "oven chips",
+                "price": "\u00a34.96",
+                "question_display_time": 57.248,
+                "selected_index": 0,
+                "selection_time": 58.978,
+                "stimulus_display_time": 18.254
+            },
+            {
+                "alt_price": "\u00a37.69",
+                "correct_index": 0,
+                "good_price": 99,
+                "item": "kitchen towel",
+                "price": "\u00a35.34",
+                "question_display_time": 55.225,
+                "selected_index": 0,
+                "selection_time": 57.246,
+                "stimulus_display_time": 21.3
+            },
+            {
+                "alt_price": "\u00a39.58",
+                "correct_index": 0,
+                "good_price": 99,
+                "item": "plasters",
+                "price": "\u00a35.76",
+                "question_display_time": 46.727,
+                "selected_index": 0,
+                "selection_time": 48.889,
+                "stimulus_display_time": 24.342
+            },
+            {
+                "alt_price": "\u00a39.45",
+                "correct_index": 1,
+                "good_price": 99,
+                "item": "sweets",
+                "price": "\u00a38.24",
+                "question_display_time": 48.891,
+                "selected_index": 1,
+                "selection_time": 50.816,
+                "stimulus_display_time": 27.383
+            }
+        ]
+    },
+    "symbol_test": {
+        "sections": [
+            {
+                "choices": [],
+                "correct": 0,
+                "options": [],
+                "selected": 0
+            },
+            {
+                "choices": [],
+                "correct": 0,
+                "options": [],
+                "selected": 0
+            },
+            {
+                "choices": [],
+                "correct": 0,
+                "options": [],
+                "selected": 0
+            },
+            {
+                "choices": [],
+                "correct": 0,
+                "options": [],
+                "selected": 0
+            },
+            {
+                "choices": [],
+                "correct": 0,
+                "options": [],
+                "selected": 0
+            },
+            {
+                "choices": [],
+                "correct": 0,
+                "options": [],
+                "selected": 0
+            },
+            {
+                "choices": [],
+                "correct": 0,
+                "options": [],
+                "selected": 0
+            },
+            {
+                "choices": [],
+                "correct": 0,
+                "options": [],
+                "selected": 0
+            },
+            {
+                "choices": [],
+                "correct": 0,
+                "options": [],
+                "selected": 0
+            },
+            {
+                "choices": [],
+                "correct": 0,
+                "options": [],
+                "selected": 0
+            },
+            {
+                "choices": [],
+                "correct": 0,
+                "options": [],
+                "selected": 0
+            },
+            {
+                "choices": [],
+                "correct": 0,
+                "options": [],
+                "selected": 0
+            }
+        ]
+    },
+    "wake_survey": {
+        "questions": [
+            {
+                "display_time": 1624726966.594,
+                "question": "What time did you get in bed last night?",
+                "question_id": "wake_1",
+                "response_time": 1624726968.302,
+                "type": "time",
+                "value": "8:00 AM"
+            },
+            {
+                "display_time": 1624726969.027,
+                "question": "How long did it take you to fall asleep last night?",
+                "question_id": "wake_2",
+                "response_time": 1624726969.99,
+                "type": "duration",
+                "value": "2 hr 5 min"
+            },
+            {
+                "display_time": 1624726970.702,
+                "question": "How many times did you wake for 5 minutes or longer?",
+                "question_id": "wake_3",
+                "response_time": 1624726971.966,
+                "type": "multilineText",
+                "value": "5"
+            },
+            {
+                "display_time": 1624726972.828,
+                "question": "What time did you wake up this morning?",
+                "question_id": "wake_4",
+                "response_time": 1624726974.52,
+                "type": "time",
+                "value": "8:00 AM"
+            },
+            {
+                "display_time": 1624726975.183,
+                "question": "What time did you get out of bed this morning?",
+                "question_id": "wake_5",
+                "response_time": 1624726976.374,
+                "type": "time",
+                "value": "8:00 AM"
+            },
+            {
+                "display_time": 1624726977.106,
+                "question": "How would you rate the quality of your sleep?",
+                "question_id": "wake_6",
+                "response_time": 1624726978.075,
+                "type": "slider",
+                "value": 1
+            }
+        ],
+        "start_date": 1624726966.594,
+        "type": "wake"
+    },
+    "type": "cognitive"
+}

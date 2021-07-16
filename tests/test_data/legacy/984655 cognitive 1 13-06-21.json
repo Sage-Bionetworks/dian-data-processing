@@ -1,0 +1,181 @@
+{
+    "app_version": "2.1.3",
+    "day": 1,
+    "device_id": "b795b9db-e826-4eb7-afa6-794e59ce1eb4",
+    "finished_session": 0,
+    "id": "1",
+    "interrupted": -99,
+    "missed_session": 1,
+    "model_version": "3",
+    "participant_id": "984655",
+    "session": 0,
+    "session_date": 1623596765,
+    "session_id": "1",
+    "timezone_name": "Central Standard Time",
+    "timezone_offset": "UTC-05:00",
+    "week": 0,
+    "os_type": "Android",
+    "os_version": "11",
+    "chronotype_survey": {
+        "questions": [
+            {
+                "display_time": 1623517937.334,
+                "question": "I have been a shift- or night-worker in the past three months.",
+                "question_id": "chronotype_1",
+                "response_time": 1623517959.8,
+                "text_value": "No",
+                "type": "choice",
+                "value": 0
+            },
+            {
+                "display_time": 1623517960.343,
+                "question": "Normally, I work ____ days\/week",
+                "question_id": "chronotype_2",
+                "response_time": 1623517961.386,
+                "text_value": "5",
+                "type": "choice",
+                "value": 5
+            },
+            {
+                "display_time": 1623517962.803,
+                "question": "On workdays, I normally fall asleep at:",
+                "question_id": "chronotype_3",
+                "response_time": 1623517964.528,
+                "type": "time",
+                "value": "7:00 AM"
+            },
+            {
+                "display_time": 1623517965.143,
+                "question": "On workdays, I normally wake up at:",
+                "question_id": "chronotype_4",
+                "response_time": 1623517966.115,
+                "type": "time",
+                "value": "10:00 PM"
+            },
+            {
+                "display_time": 1623517967.066,
+                "question": "On work-free days when I don't use an alarm clock, I normally fall asleep at:",
+                "question_id": "chronotype_5",
+                "response_time": 1623517968.303,
+                "type": "time",
+                "value": "7:00 AM"
+            },
+            {
+                "display_time": 1623517969.155,
+                "question": "On work-free days when I don't use an alarm clock, I normally wake up at:",
+                "question_id": "chronotype_6",
+                "response_time": 1623517970.193,
+                "type": "time",
+                "value": "10:00 PM"
+            }
+        ],
+        "start_date": 1623517937.334,
+        "type": "chronotype"
+    },
+    "context_survey": {
+        "questions": [
+            {
+                "display_time": 1623517987.516,
+                "question": "Who is with you right now?",
+                "question_id": "context_1",
+                "response_time": 1623517988.56,
+                "text_value": "Co-workers",
+                "type": "checkbox",
+                "value": [
+                    4
+                ]
+            },
+            {
+                "display_time": 1623517989.219,
+                "question": "Where are you right now?",
+                "question_id": "context_2",
+                "response_time": 1623517990.123,
+                "text_value": "Vehicle",
+                "type": "choice",
+                "value": 4
+            },
+            {
+                "display_time": 1623517990.719,
+                "question": "How would you rate your overall mood right now?",
+                "question_id": "context_3",
+                "response_time": 1623517991.706,
+                "type": "slider",
+                "value": 0
+            },
+            {
+                "display_time": 1623517992.171,
+                "question": "How would you rate how you feel right now?",
+                "question_id": "context_4",
+                "response_time": 1623517993.129,
+                "type": "slider",
+                "value": 0
+            },
+            {
+                "display_time": 1623517993.703,
+                "question": "In the past 5 minutes, what were you mostly doing?",
+                "question_id": "context_5",
+                "response_time": 1623517994.384,
+                "text_value": "Driving",
+                "type": "choice",
+                "value": 5
+            }
+        ],
+        "start_date": 1623517987.516,
+        "type": "context"
+    },
+    "wake_survey": {
+        "questions": [
+            {
+                "display_time": 1623517972.144,
+                "question": "What time did you get in bed last night?",
+                "question_id": "wake_1",
+                "response_time": 1623517973.35,
+                "type": "time",
+                "value": "10:00 PM"
+            },
+            {
+                "display_time": 1623517974.095,
+                "question": "How long did it take you to fall asleep last night?",
+                "question_id": "wake_2",
+                "response_time": 1623517975.222,
+                "type": "duration",
+                "value": "10 min"
+            },
+            {
+                "display_time": 1623517975.965,
+                "question": "How many times did you wake for 5 minutes or longer?",
+                "question_id": "wake_3",
+                "response_time": 1623517977.347,
+                "type": "multilineText",
+                "value": "2"
+            },
+            {
+                "display_time": 1623517978.399,
+                "question": "What time did you wake up this morning?",
+                "question_id": "wake_4",
+                "response_time": 1623517981.808,
+                "type": "time",
+                "value": "10:00 PM"
+            },
+            {
+                "display_time": 1623517982.608,
+                "question": "What time did you get out of bed this morning?",
+                "question_id": "wake_5",
+                "response_time": 1623517983.579,
+                "type": "time",
+                "value": "10:00 PM"
+            },
+            {
+                "display_time": 1623517984.329,
+                "question": "How would you rate the quality of your sleep?",
+                "question_id": "wake_6",
+                "response_time": 1623517985.855,
+                "type": "slider",
+                "value": 0.05
+            }
+        ],
+        "start_date": 1623517972.144,
+        "type": "wake"
+    },
+    "type": "cognitive"
+}

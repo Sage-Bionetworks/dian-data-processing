@@ -1,0 +1,124 @@
+{
+    "app_version": "2.0.0",
+    "day": 6,
+    "device_id": "5ee547c0-d181-4291-b39b-934435fe0bfe",
+    "finished_session": 0,
+    "id": "21",
+    "interrupted": 0,
+    "missed_session": 0,
+    "model_version": "0",
+    "participant_id": "440008",
+    "session": 0,
+    "session_date": 1565786898,
+    "session_id": "21",
+    "start_time": 1565787074.467,
+    "week": 0,
+    "os_type": "Android",
+    "os_version": "7.0",
+    "context_survey": {
+        "questions": [
+            {
+                "display_time": 1565708857.08,
+                "question": "Who is with you right now?",
+                "question_id": "context_1",
+                "response_time": 1565708857.946,
+                "text_value": "Pet",
+                "type": "checkbox",
+                "value": [
+                    5
+                ]
+            },
+            {
+                "display_time": 1565708858.833,
+                "question": "Where are you right now?",
+                "question_id": "context_2",
+                "response_time": 1565708859.608,
+                "text_value": "Outside",
+                "type": "choice",
+                "value": 5
+            },
+            {
+                "display_time": 1565708860.201,
+                "question": "How would you rate your overall mood right now?",
+                "question_id": "context_3",
+                "response_time": 1565708860.957,
+                "type": "slider",
+                "value": 0.34
+            },
+            {
+                "display_time": 1565708861.733,
+                "question": "How would you rate how you feel right now?",
+                "question_id": "context_4",
+                "response_time": 1565708862.367,
+                "type": "slider",
+                "value": 0.44
+            },
+            {
+                "display_time": 1565708863.018,
+                "question": "In the past 5 minutes, what were you mostly doing?",
+                "question_id": "context_5",
+                "response_time": 1565708863.56,
+                "text_value": "Eating",
+                "type": "choice",
+                "value": 2
+            }
+        ],
+        "start_date": 1565708857.08,
+        "type": "context"
+    },
+    "wake_survey": {
+        "questions": [
+            {
+                "display_time": 1565708847.311,
+                "question": "What time did you get in bed last night?",
+                "question_id": "wake_1",
+                "response_time": 1565708847.313,
+                "type": "time",
+                "value": "5:00 PM"
+            },
+            {
+                "display_time": 1565708849.209,
+                "question": "How long did it take you to fall asleep last night?",
+                "question_id": "wake_2",
+                "response_time": 0,
+                "type": "duration",
+                "value": "5 min"
+            },
+            {
+                "display_time": 1565708849.867,
+                "question": "How many times did you wake up for 5 minutes or longer?",
+                "question_id": "wake_3",
+                "response_time": 1565708851.195,
+                "type": "multilineText",
+                "value": "5"
+            },
+            {
+                "display_time": 1565708852.001,
+                "question": "What time did you wake up this morning?",
+                "question_id": "wake_4",
+                "response_time": 1565708852.002,
+                "type": "time",
+                "value": "7:00 AM"
+            },
+            {
+                "display_time": 1565708853.04,
+                "question": "What time did you get out of bed this morning?",
+                "question_id": "wake_5",
+                "response_time": 1565708853.041,
+                "type": "time",
+                "value": "7:00 AM"
+            },
+            {
+                "display_time": 1565708854.12,
+                "question": "How would you rate the quality of your sleep?",
+                "question_id": "wake_6",
+                "response_time": 1565708855.302,
+                "type": "slider",
+                "value": 0.3
+            }
+        ],
+        "start_date": 1565708847.311,
+        "type": "wake"
+    },
+    "type": "cognitive"
+}

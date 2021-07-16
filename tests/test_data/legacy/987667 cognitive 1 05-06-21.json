@@ -1,0 +1,181 @@
+{
+    "app_version": "2.1.3",
+    "day": 1,
+    "device_id": "c18fed1c-b741-4b3d-8909-c7fa5671279b",
+    "finished_session": 0,
+    "id": "1",
+    "interrupted": -99,
+    "missed_session": 1,
+    "model_version": "3",
+    "participant_id": "987667",
+    "session": 0,
+    "session_date": 1622902686,
+    "session_id": "1",
+    "timezone_name": "Central Standard Time",
+    "timezone_offset": "UTC-05:00",
+    "week": 0,
+    "os_type": "Android",
+    "os_version": "8.0.0",
+    "chronotype_survey": {
+        "questions": [
+            {
+                "display_time": 1622816046.069,
+                "question": "He trabajado de noche o por turnos en los \u00faltimos tres meses.",
+                "question_id": "chronotype_1",
+                "response_time": 1622816047.202,
+                "text_value": "Yes",
+                "type": "choice",
+                "value": 1
+            },
+            {
+                "display_time": 1622816047.988,
+                "question": "Habitualmente, trabajo _____ d\u00edas\/semana.",
+                "question_id": "chronotype_2",
+                "response_time": 1622816050.225,
+                "text_value": "5",
+                "type": "choice",
+                "value": 5
+            },
+            {
+                "display_time": 1622816073.802,
+                "question": "En d\u00edas laborales, normalmente me quedo dormido a las:",
+                "question_id": "chronotype_3",
+                "response_time": 1622816056.476,
+                "type": "time",
+                "value": "4:00 PM"
+            },
+            {
+                "display_time": 1622816091.795,
+                "question": "En d\u00edas laborales, normalmente me despierto a las:",
+                "question_id": "chronotype_4",
+                "response_time": 1622816077.203,
+                "type": "time",
+                "value": "9:00 AM"
+            },
+            {
+                "display_time": 1622816092.918,
+                "question": "En d\u00edas de descanso, cuando no uso el despertador, normalmente me quedo dormido a las:",
+                "question_id": "chronotype_5",
+                "response_time": 1622816069.904,
+                "type": "time",
+                "value": "3:15 AM"
+            },
+            {
+                "display_time": 1622816094.05,
+                "question": "En d\u00edas de descanso, cuando no uso el despertador, normalmente me despierto a las:",
+                "question_id": "chronotype_6",
+                "response_time": 1622816087.689,
+                "type": "time",
+                "value": "12:00 PM"
+            }
+        ],
+        "start_date": 1622816046.069,
+        "type": "chronotype"
+    },
+    "context_survey": {
+        "questions": [
+            {
+                "display_time": 1622816113.503,
+                "question": "\u00bfQui\u00e9n est\u00e1 con usted en este momento?",
+                "question_id": "context_1",
+                "response_time": 1622816114.789,
+                "text_value": "Pareja\/c\u00f3nyuge",
+                "type": "checkbox",
+                "value": [
+                    1
+                ]
+            },
+            {
+                "display_time": 1622816116.835,
+                "question": "\u00bfD\u00f3nde est\u00e1 usted en este momento?",
+                "question_id": "context_2",
+                "response_time": 1622816117.953,
+                "text_value": "La casa de otra persona",
+                "type": "choice",
+                "value": 3
+            },
+            {
+                "display_time": 1622816118.768,
+                "question": "\u00bfC\u00f3mo calificar\u00eda su estado de \u00e1nimo general en este momento?",
+                "question_id": "context_3",
+                "response_time": 1622816119.802,
+                "type": "slider",
+                "value": 0.03
+            },
+            {
+                "display_time": 1622816120.419,
+                "question": "\u00bfC\u00f3mo calificar\u00eda c\u00f3mo se siente en este momento?",
+                "question_id": "context_4",
+                "response_time": 1622816121.584,
+                "type": "slider",
+                "value": 0.98
+            },
+            {
+                "display_time": 1622816122.208,
+                "question": "En los \u00faltimos 5 minutos, \u00bfqu\u00e9 actividad estaba realizando principalmente?",
+                "question_id": "context_5",
+                "response_time": 1622816124.172,
+                "text_value": "Ejercitarse",
+                "type": "choice",
+                "value": 3
+            }
+        ],
+        "start_date": 1622816113.503,
+        "type": "context"
+    },
+    "wake_survey": {
+        "questions": [
+            {
+                "display_time": 1622816098.111,
+                "question": "\u00bfA qu\u00e9 hora se acost\u00f3 anoche?",
+                "question_id": "wake_1",
+                "response_time": 1622816099.269,
+                "type": "time",
+                "value": "6:00 AM"
+            },
+            {
+                "display_time": 1622816100.343,
+                "question": "\u00bfCu\u00e1nto tiempo tard\u00f3 en dormirse?",
+                "question_id": "wake_2",
+                "response_time": 1622816101.496,
+                "type": "duration",
+                "value": "10 min"
+            },
+            {
+                "display_time": 1622816102.278,
+                "question": "\u00bfCu\u00e1ntas veces se despert\u00f3 durante 5 o m\u00e1s minutos?",
+                "question_id": "wake_3",
+                "response_time": 1622816103.746,
+                "type": "multilineText",
+                "value": "4"
+            },
+            {
+                "display_time": 1622816105.054,
+                "question": "\u00bfA qu\u00e9 hora se despert\u00f3 esta ma\u00f1ana?",
+                "question_id": "wake_4",
+                "response_time": 1622816106.37,
+                "type": "time",
+                "value": "7:00 AM"
+            },
+            {
+                "display_time": 1622816107.381,
+                "question": "\u00bfA qu\u00e9 hora se levant\u00f3 esta ma\u00f1ana?",
+                "question_id": "wake_5",
+                "response_time": 1622816108.461,
+                "type": "time",
+                "value": "6:00 AM"
+            },
+            {
+                "display_time": 1622816109.622,
+                "question": "\u00bfC\u00f3mo calificar\u00eda la calidad de su sue\u00f1o?",
+                "question_id": "wake_6",
+                "response_time": 1622816111.061,
+                "type": "slider",
+                "value": 1
+            }
+        ],
+        "start_date": 1622816098.111,
+        "type": "wake"
+    },
+    "type": "cognitive"
+}

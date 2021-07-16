@@ -1,0 +1,540 @@
+{
+    "app_version": "2.4.0",
+    "day": 1,
+    "device_id": "304C356B-3BCB-424B-B96A-DD29BCD377D7",
+    "finished_session": 1,
+    "id": "3",
+    "interrupted": 0,
+    "missed_session": 0,
+    "model_version": "2.1.0",
+    "participant_id": "600002",
+    "session": 2,
+    "session_date": 1586892999.7810507,
+    "session_id": "3",
+    "start_time": 1586893248.619513,
+    "week": 0,
+    "os_type": "iOS",
+    "os_version": "13.3.1",
+    "context_survey": {
+        "questions": [
+            {
+                "display_time": 1586893250.116739,
+                "question": "Encuesta de contexto",
+                "question_id": "start",
+                "response_time": 1586893250.931021,
+                "type": "none"
+            },
+            {
+                "display_time": 1586893250.99351,
+                "question": "\u00bfQui\u00e9n est\u00e1 con usted en este momento?",
+                "question_id": "context_1",
+                "response_time": 1586893251.765209,
+                "text_value": "Amigos",
+                "type": "checkbox",
+                "value": [
+                    3
+                ]
+            },
+            {
+                "display_time": 1586893252.785773,
+                "question": "\u00bfD\u00f3nde est\u00e1 usted en este momento?",
+                "question_id": "context_2",
+                "response_time": 1586893253.494216,
+                "text_value": "Afuera",
+                "type": "choice",
+                "value": 5
+            },
+            {
+                "display_time": 1586893254.645578,
+                "question": "\u00bfC\u00f3mo calificar\u00eda su estado de \u00e1nimo general en este momento?",
+                "question_id": "context_3",
+                "response_time": 1586893255.623646,
+                "type": "slider",
+                "value": 0.7425000071525574
+            },
+            {
+                "display_time": 1586893256.002174,
+                "question": "\u00bfC\u00f3mo calificar\u00eda c\u00f3mo se siente en este momento?",
+                "question_id": "context_4",
+                "response_time": 1586893257.3236818,
+                "type": "slider",
+                "value": 0.7749999761581421
+            },
+            {
+                "display_time": 1586893257.71995,
+                "question": "En los \u00faltimos 5 minutos, \u00bfqu\u00e9 actividad estaba realizando principalmente?",
+                "question_id": "context_5",
+                "response_time": 1586893258.449477,
+                "text_value": "Mirar televisi\u00f3n",
+                "type": "choice",
+                "value": 1
+            }
+        ],
+        "start_date": 1586893250.1241531,
+        "type": "context"
+    },
+    "grid_test": {
+        "date": 1586893279.6892529,
+        "sections": [
+            {
+                "choices": [],
+                "display_symbols": 2.030912160873413,
+                "e_count": 0,
+                "f_count": 0,
+                "images": [
+                    {
+                        "image": "key",
+                        "x": 4,
+                        "y": 0
+                    },
+                    {
+                        "image": "phone",
+                        "x": 3,
+                        "y": 2
+                    },
+                    {
+                        "image": "pen",
+                        "x": 1,
+                        "y": 3
+                    }
+                ]
+            },
+            {
+                "choices": [],
+                "e_count": 0,
+                "f_count": 0,
+                "images": [
+                    {
+                        "image": "key",
+                        "x": 3,
+                        "y": 1
+                    },
+                    {
+                        "image": "pen",
+                        "x": 0,
+                        "y": 2
+                    },
+                    {
+                        "image": "phone",
+                        "x": 3,
+                        "y": 4
+                    }
+                ]
+            }
+        ],
+        "type": "gridTest"
+    },
+    "price_test": {
+        "date": 1586893270.583023,
+        "sections": [
+            {
+                "alt_price": "72.90",
+                "correct_index": 0,
+                "good_price": 0,
+                "item": "algod\u00f3n",
+                "price": "47.10",
+                "stimulus_display_time": 0.02934098243713379
+            },
+            {
+                "alt_price": "89.30",
+                "correct_index": 0,
+                "item": "espuma de afeitar",
+                "price": "73.40",
+                "stimulus_display_time": 3.0538359880447388
+            },
+            {
+                "alt_price": "48.10",
+                "correct_index": 0,
+                "item": "cuaderno",
+                "price": "21.40"
+            },
+            {
+                "alt_price": "39.20",
+                "correct_index": 1,
+                "item": "chupet\u00edn",
+                "price": "72.60"
+            },
+            {
+                "alt_price": "23.10",
+                "correct_index": 1,
+                "item": "asado",
+                "price": "57.90"
+            },
+            {
+                "alt_price": "59.70",
+                "correct_index": 0,
+                "item": "detergente",
+                "price": "23.90"
+            },
+            {
+                "alt_price": "97.80",
+                "correct_index": 1,
+                "item": "botella de vino",
+                "price": "65.80"
+            },
+            {
+                "alt_price": "29.40",
+                "correct_index": 0,
+                "item": "cepillo de dientes",
+                "price": "18.60"
+            },
+            {
+                "alt_price": "37.10",
+                "correct_index": 0,
+                "item": "crema de enjuague",
+                "price": "19.40"
+            },
+            {
+                "alt_price": "31.80",
+                "correct_index": 1,
+                "item": "suavizante para ropa",
+                "price": "46.70"
+            }
+        ],
+        "type": "priceTest"
+    },
+    "symbol_test": {
+        "date": 1586893264.3386788,
+        "sections": [
+            {
+                "appearance_time": 0.01733112335205078,
+                "choices": [
+                    [
+                        "3",
+                        "2"
+                    ],
+                    [
+                        "5",
+                        "7"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "5",
+                        "7"
+                    ],
+                    [
+                        "7",
+                        "0"
+                    ],
+                    [
+                        "4",
+                        "5"
+                    ]
+                ],
+                "selected": -1
+            },
+            {
+                "choices": [
+                    [
+                        "0",
+                        "6"
+                    ],
+                    [
+                        "4",
+                        "7"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "1",
+                        "2"
+                    ],
+                    [
+                        "4",
+                        "7"
+                    ],
+                    [
+                        "3",
+                        "1"
+                    ]
+                ],
+                "selected": -1
+            },
+            {
+                "choices": [
+                    [
+                        "6",
+                        "4"
+                    ],
+                    [
+                        "1",
+                        "4"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "1",
+                        "4"
+                    ],
+                    [
+                        "2",
+                        "3"
+                    ],
+                    [
+                        "6",
+                        "1"
+                    ]
+                ],
+                "selected": -1
+            },
+            {
+                "choices": [
+                    [
+                        "4",
+                        "7"
+                    ],
+                    [
+                        "0",
+                        "5"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "7",
+                        "0"
+                    ],
+                    [
+                        "3",
+                        "6"
+                    ],
+                    [
+                        "0",
+                        "5"
+                    ]
+                ],
+                "selected": -1
+            },
+            {
+                "choices": [
+                    [
+                        "6",
+                        "3"
+                    ],
+                    [
+                        "6",
+                        "0"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "4",
+                        "6"
+                    ],
+                    [
+                        "7",
+                        "3"
+                    ],
+                    [
+                        "6",
+                        "0"
+                    ]
+                ],
+                "selected": -1
+            },
+            {
+                "choices": [
+                    [
+                        "1",
+                        "6"
+                    ],
+                    [
+                        "4",
+                        "5"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "4",
+                        "5"
+                    ],
+                    [
+                        "1",
+                        "3"
+                    ],
+                    [
+                        "6",
+                        "7"
+                    ]
+                ],
+                "selected": -1
+            },
+            {
+                "choices": [
+                    [
+                        "3",
+                        "0"
+                    ],
+                    [
+                        "4",
+                        "2"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "7",
+                        "1"
+                    ],
+                    [
+                        "4",
+                        "2"
+                    ],
+                    [
+                        "1",
+                        "6"
+                    ]
+                ],
+                "selected": -1
+            },
+            {
+                "choices": [
+                    [
+                        "0",
+                        "5"
+                    ],
+                    [
+                        "3",
+                        "7"
+                    ]
+                ],
+                "correct": 1,
+                "options": [
+                    [
+                        "1",
+                        "7"
+                    ],
+                    [
+                        "0",
+                        "5"
+                    ],
+                    [
+                        "3",
+                        "1"
+                    ]
+                ],
+                "selected": -1
+            },
+            {
+                "choices": [
+                    [
+                        "7",
+                        "2"
+                    ],
+                    [
+                        "4",
+                        "5"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "7",
+                        "1"
+                    ],
+                    [
+                        "4",
+                        "5"
+                    ],
+                    [
+                        "3",
+                        "4"
+                    ]
+                ],
+                "selected": -1
+            },
+            {
+                "choices": [
+                    [
+                        "3",
+                        "1"
+                    ],
+                    [
+                        "5",
+                        "7"
+                    ]
+                ],
+                "correct": 1,
+                "options": [
+                    [
+                        "7",
+                        "3"
+                    ],
+                    [
+                        "3",
+                        "1"
+                    ],
+                    [
+                        "6",
+                        "7"
+                    ]
+                ],
+                "selected": -1
+            },
+            {
+                "choices": [
+                    [
+                        "2",
+                        "4"
+                    ],
+                    [
+                        "7",
+                        "0"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "7",
+                        "0"
+                    ],
+                    [
+                        "7",
+                        "1"
+                    ],
+                    [
+                        "4",
+                        "1"
+                    ]
+                ],
+                "selected": -1
+            },
+            {
+                "choices": [
+                    [
+                        "1",
+                        "0"
+                    ],
+                    [
+                        "1",
+                        "5"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "5",
+                        "3"
+                    ],
+                    [
+                        "2",
+                        "0"
+                    ],
+                    [
+                        "1",
+                        "5"
+                    ]
+                ],
+                "selected": -1
+            }
+        ],
+        "type": "symbolsTest"
+    },
+    "type": "cognitive"
+}

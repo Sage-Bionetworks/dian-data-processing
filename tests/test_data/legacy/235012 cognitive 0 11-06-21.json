@@ -1,0 +1,761 @@
+{
+    "app_version": "2.1.3",
+    "day": 0,
+    "device_id": "37293ff2-1b34-471a-a749-c8f42f094a6f",
+    "finished_session": 1,
+    "id": "0",
+    "interrupted": 1,
+    "missed_session": 0,
+    "model_version": "3",
+    "participant_id": "235012",
+    "session": 0,
+    "session_date": 1623444695.732,
+    "session_id": "0",
+    "start_time": 1623444699.666,
+    "timezone_name": "Central Standard Time",
+    "timezone_offset": "UTC-05:00",
+    "week": 0,
+    "os_type": "Android",
+    "os_version": "7.0",
+    "chronotype_survey": {
+        "questions": [
+            {
+                "display_time": 1623444718.394,
+                "question": "\u3053\u306e3\u304b\u6708\u9593\u306f\u4ea4\u4ee3\u52e4\u52d9\u307e\u305f\u306f\u591c\u9593\u52e4\u52d9\u304c\u3042\u308a\u307e\u3057\u305f\u3002",
+                "question_id": "chronotype_1",
+                "response_time": 1623444722.402,
+                "text_value": "No",
+                "type": "choice",
+                "value": 0
+            },
+            {
+                "display_time": 1623444723.289,
+                "question": "\u901a\u5e38\u3001\u79c1\u306f1\u9031\u9593\u306b____\u65e5\u50cd\u3044\u3066\u3044\u307e\u3059\u3002",
+                "question_id": "chronotype_2",
+                "response_time": 1623444724.7,
+                "text_value": "5",
+                "type": "choice",
+                "value": 5
+            },
+            {
+                "display_time": 1623444727.333,
+                "question": "\u4ed5\u4e8b\u306e\u3042\u308b\u65e5\u306f\u3001\u666e\u6bb5\uff3f\u6642\u306b\u7720\u308a\u306b\u3064\u304d\u307e\u3059\u3002",
+                "question_id": "chronotype_3",
+                "response_time": 1623444735.157,
+                "type": "time",
+                "value": "9:00 AM"
+            },
+            {
+                "display_time": 1623444735.952,
+                "question": "\u4ed5\u4e8b\u306e\u3042\u308b\u65e5\u306f\u3001\u666e\u6bb5\uff3f\u6642\u306b\u76ee\u304c\u899a\u3081\u307e\u3059\u3002",
+                "question_id": "chronotype_4",
+                "response_time": 1623444739.504,
+                "type": "time",
+                "value": "10:00 PM"
+            },
+            {
+                "display_time": 1623444740.489,
+                "question": "\u76ee\u899a\u307e\u3057\u6642\u8a08\u3092\u4f7f\u308f\u306a\u3044\u4ed5\u4e8b\u306e\u306a\u3044\u65e5\u306f\u3001\u666e\u6bb5\uff3f\u6642\u306b\u7720\u308a\u306b\u3064\u304d\u307e\u3059\u3002",
+                "question_id": "chronotype_5",
+                "response_time": 1623444742.756,
+                "type": "time",
+                "value": "9:00 AM"
+            },
+            {
+                "display_time": 1623444743.504,
+                "question": "\u76ee\u899a\u307e\u3057\u6642\u8a08\u3092\u4f7f\u308f\u306a\u3044\u4ed5\u4e8b\u306e\u306a\u3044\u65e5\u306f\u3001\u666e\u6bb5\uff3f\u6642\u306b\u76ee\u304c\u899a\u3081\u307e\u3059\u3002",
+                "question_id": "chronotype_6",
+                "response_time": 1623444745.158,
+                "type": "time",
+                "value": "10:00 PM"
+            }
+        ],
+        "start_date": 1623444718.394,
+        "type": "chronotype"
+    },
+    "context_survey": {
+        "questions": [
+            {
+                "display_time": 1623444775.588,
+                "question": "\u4eca\u8ab0\u3068\u4e00\u7dd2\u306b\u3044\u307e\u3059\u304b\uff1f",
+                "question_id": "context_1",
+                "response_time": 1623444777,
+                "text_value": "\u53cb\u4eba",
+                "type": "checkbox",
+                "value": [
+                    3
+                ]
+            },
+            {
+                "display_time": 1623444779.22,
+                "question": "\u4eca\u3069\u3053\u306b\u3044\u307e\u3059\u304b\uff1f",
+                "question_id": "context_2",
+                "response_time": 1623444783.019,
+                "text_value": "\u81ea\u5b85",
+                "type": "choice",
+                "value": 0
+            },
+            {
+                "display_time": 1623444783.699,
+                "question": "\u4eca\u73fe\u5728\u306e\u5168\u4f53\u7684\u306a\u6c17\u5206\u3092\u3069\u306e\u3088\u3046\u306b\u8a55\u4fa1\u3057\u307e\u3059\u304b\uff1f",
+                "question_id": "context_3",
+                "response_time": 1623444784.734,
+                "type": "slider",
+                "value": 0.71
+            },
+            {
+                "display_time": 1623444785.442,
+                "question": "\u4eca\u73fe\u5728\u3069\u306e\u3088\u3046\u306b\u611f\u3058\u3066\u3044\u307e\u3059\u304b\uff1f\u8a55\u4fa1\u3057\u3066\u304f\u3060\u3055\u3044",
+                "question_id": "context_4",
+                "response_time": 1623444786.476,
+                "type": "slider",
+                "value": 0.43
+            },
+            {
+                "display_time": 1623444787.14,
+                "question": "\u3053\u308c\u307e\u3067\u306e5\u5206\u9593\u3001\u4e3b\u306b\u4f55\u3092\u3057\u3066\u3044\u307e\u3057\u305f\u304b\uff1f",
+                "question_id": "context_5",
+                "response_time": 1623444788.809,
+                "text_value": "\u30c6\u30ec\u30d3\u3092\u898b\u3066\u3044\u305f",
+                "type": "choice",
+                "value": 1
+            }
+        ],
+        "start_date": 1623444775.588,
+        "type": "context"
+    },
+    "grid_test": {
+        "date": 1623444967.002,
+        "sections": [
+            {
+                "choices": [
+                    {
+                        "grid_selection_time": 22.68,
+                        "image": "pen",
+                        "image_selection_time": 23.361,
+                        "x": 3,
+                        "y": 0
+                    },
+                    {
+                        "grid_selection_time": 20.079,
+                        "image": "key",
+                        "image_selection_time": 20.774,
+                        "x": 0,
+                        "y": 1
+                    },
+                    {
+                        "grid_selection_time": 21.329,
+                        "image": "phone",
+                        "image_selection_time": 22.083,
+                        "x": 2,
+                        "y": 3
+                    }
+                ],
+                "display_distraction": 5.098,
+                "display_symbols": 2.023,
+                "display_test_grid": 19.19,
+                "e_count": 0,
+                "f_count": 8,
+                "images": [
+                    {
+                        "image": "phone",
+                        "x": 1,
+                        "y": 0
+                    },
+                    {
+                        "image": "pen",
+                        "x": 3,
+                        "y": 1
+                    },
+                    {
+                        "image": "key",
+                        "x": 0,
+                        "y": 3
+                    }
+                ]
+            },
+            {
+                "choices": [
+                    {
+                        "grid_selection_time": 46.96,
+                        "image": "phone",
+                        "image_selection_time": 47.56,
+                        "x": 4,
+                        "y": 0
+                    },
+                    {
+                        "grid_selection_time": 45.827,
+                        "image": "pen",
+                        "image_selection_time": 46.501,
+                        "x": 3,
+                        "y": 2
+                    },
+                    {
+                        "grid_selection_time": 44.497,
+                        "image": "key",
+                        "image_selection_time": 45.222,
+                        "x": 0,
+                        "y": 3
+                    }
+                ],
+                "display_distraction": 29.55,
+                "display_symbols": 26.515,
+                "display_test_grid": 43.62,
+                "e_count": 0,
+                "f_count": 8,
+                "images": [
+                    {
+                        "image": "phone",
+                        "x": 0,
+                        "y": 4
+                    },
+                    {
+                        "image": "pen",
+                        "x": 3,
+                        "y": 3
+                    },
+                    {
+                        "image": "key",
+                        "x": 2,
+                        "y": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "price_test": {
+        "date": 1623445057.829,
+        "sections": [
+            {
+                "alt_price": "\u00a5864.00",
+                "correct_index": 0,
+                "good_price": 99,
+                "item": "\u3058\u3083\u304c\u3044\u3082\u306e",
+                "price": "\u00a5237.00",
+                "question_display_time": 36.616,
+                "selected_index": 1,
+                "selection_time": 40.348,
+                "stimulus_display_time": 0.002
+            },
+            {
+                "alt_price": "\u00a5835.00",
+                "correct_index": 1,
+                "good_price": 99,
+                "item": "\u713c\u304d\u305d\u3070",
+                "price": "\u00a5693.00",
+                "question_display_time": 49.709,
+                "selected_index": 1,
+                "selection_time": 50.768,
+                "stimulus_display_time": 3.063
+            },
+            {
+                "alt_price": "\u00a5785.00",
+                "correct_index": 1,
+                "good_price": 99,
+                "item": "\u713c\u8089",
+                "price": "\u00a5967.00",
+                "question_display_time": 40.349,
+                "selected_index": 0,
+                "selection_time": 41.776,
+                "stimulus_display_time": 6.132
+            },
+            {
+                "alt_price": "\u00a5329.00",
+                "correct_index": 0,
+                "good_price": 99,
+                "item": "\u304a\u306b\u304e\u308a",
+                "price": "\u00a5637.00",
+                "question_display_time": 50.77,
+                "selected_index": 0,
+                "selection_time": 58.942,
+                "stimulus_display_time": 9.191
+            },
+            {
+                "alt_price": "\u00a5721.00",
+                "correct_index": 1,
+                "good_price": 99,
+                "item": "\u306f\u3057",
+                "price": "\u00a5157.00",
+                "question_display_time": 58.945,
+                "selected_index": 1,
+                "selection_time": 60.692,
+                "stimulus_display_time": 12.242
+            },
+            {
+                "alt_price": "\u00a5346.00",
+                "correct_index": 0,
+                "good_price": 99,
+                "item": "\u30d6\u30c9\u30a6",
+                "price": "\u00a5178.00",
+                "question_display_time": 45.339,
+                "selected_index": 0,
+                "selection_time": 47.688,
+                "stimulus_display_time": 15.3
+            },
+            {
+                "alt_price": "\u00a5376.00",
+                "correct_index": 0,
+                "good_price": 1,
+                "item": "\u30b7\u30e3\u30f3\u30d7\u30fc",
+                "price": "\u00a5496.00",
+                "question_display_time": 47.691,
+                "selected_index": 1,
+                "selection_time": 48.776,
+                "stimulus_display_time": 18.364
+            },
+            {
+                "alt_price": "\u00a5769.00",
+                "correct_index": 0,
+                "good_price": 0,
+                "item": "\u8089",
+                "price": "\u00a5534.00",
+                "question_display_time": 48.781,
+                "selected_index": 0,
+                "selection_time": 49.707,
+                "stimulus_display_time": 21.43
+            },
+            {
+                "alt_price": "\u00a5958.00",
+                "correct_index": 1,
+                "good_price": 99,
+                "item": "\u307f\u304b\u3093",
+                "price": "\u00a5576.00",
+                "question_display_time": 41.778,
+                "selected_index": 1,
+                "selection_time": 45.336,
+                "stimulus_display_time": 24.479
+            },
+            {
+                "alt_price": "\u00a5945.00",
+                "correct_index": 1,
+                "good_price": 0,
+                "item": "\u30e8\u30fc\u30b0\u30eb\u30c8",
+                "price": "\u00a5824.00",
+                "question_display_time": 34.634,
+                "selected_index": 0,
+                "selection_time": 36.614,
+                "stimulus_display_time": 27.538
+            }
+        ]
+    },
+    "symbol_test": {
+        "date": 1623444836.139,
+        "sections": [
+            {
+                "appearance_time": 0.042,
+                "choices": [
+                    [
+                        "3",
+                        "6"
+                    ],
+                    [
+                        "7",
+                        "6"
+                    ]
+                ],
+                "correct": 1,
+                "options": [
+                    [
+                        "3",
+                        "6"
+                    ],
+                    [
+                        "0",
+                        "7"
+                    ],
+                    [
+                        "0",
+                        "4"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 2.079
+            },
+            {
+                "appearance_time": 2.1,
+                "choices": [
+                    [
+                        "6",
+                        "2"
+                    ],
+                    [
+                        "3",
+                        "0"
+                    ]
+                ],
+                "correct": 1,
+                "options": [
+                    [
+                        "6",
+                        "2"
+                    ],
+                    [
+                        "3",
+                        "5"
+                    ],
+                    [
+                        "0",
+                        "5"
+                    ]
+                ],
+                "selected": 1,
+                "selection_time": 2.494
+            },
+            {
+                "appearance_time": 2.506,
+                "choices": [
+                    [
+                        "4",
+                        "2"
+                    ],
+                    [
+                        "2",
+                        "1"
+                    ]
+                ],
+                "correct": 1,
+                "options": [
+                    [
+                        "7",
+                        "6"
+                    ],
+                    [
+                        "4",
+                        "1"
+                    ],
+                    [
+                        "4",
+                        "2"
+                    ]
+                ],
+                "selected": 1,
+                "selection_time": 2.705
+            },
+            {
+                "appearance_time": 2.711,
+                "choices": [
+                    [
+                        "6",
+                        "7"
+                    ],
+                    [
+                        "5",
+                        "4"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "5",
+                        "4"
+                    ],
+                    [
+                        "6",
+                        "4"
+                    ],
+                    [
+                        "5",
+                        "0"
+                    ]
+                ],
+                "selected": 1,
+                "selection_time": 2.879
+            },
+            {
+                "appearance_time": 2.884,
+                "choices": [
+                    [
+                        "7",
+                        "0"
+                    ],
+                    [
+                        "6",
+                        "7"
+                    ]
+                ],
+                "correct": 1,
+                "options": [
+                    [
+                        "7",
+                        "0"
+                    ],
+                    [
+                        "4",
+                        "3"
+                    ],
+                    [
+                        "0",
+                        "6"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 3.092
+            },
+            {
+                "appearance_time": 3.098,
+                "choices": [
+                    [
+                        "4",
+                        "6"
+                    ],
+                    [
+                        "7",
+                        "2"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "0",
+                        "1"
+                    ],
+                    [
+                        "5",
+                        "4"
+                    ],
+                    [
+                        "7",
+                        "2"
+                    ]
+                ],
+                "selected": 1,
+                "selection_time": 3.385
+            },
+            {
+                "appearance_time": 3.391,
+                "choices": [
+                    [
+                        "4",
+                        "2"
+                    ],
+                    [
+                        "4",
+                        "5"
+                    ]
+                ],
+                "correct": 1,
+                "options": [
+                    [
+                        "7",
+                        "4"
+                    ],
+                    [
+                        "4",
+                        "2"
+                    ],
+                    [
+                        "7",
+                        "3"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 3.736
+            },
+            {
+                "appearance_time": 3.745,
+                "choices": [
+                    [
+                        "6",
+                        "4"
+                    ],
+                    [
+                        "0",
+                        "6"
+                    ]
+                ],
+                "correct": 1,
+                "options": [
+                    [
+                        "4",
+                        "5"
+                    ],
+                    [
+                        "6",
+                        "4"
+                    ],
+                    [
+                        "1",
+                        "4"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 3.933
+            },
+            {
+                "appearance_time": 3.937,
+                "choices": [
+                    [
+                        "6",
+                        "4"
+                    ],
+                    [
+                        "6",
+                        "2"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "6",
+                        "1"
+                    ],
+                    [
+                        "6",
+                        "2"
+                    ],
+                    [
+                        "6",
+                        "7"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 4.093
+            },
+            {
+                "appearance_time": 4.099,
+                "choices": [
+                    [
+                        "1",
+                        "6"
+                    ],
+                    [
+                        "4",
+                        "0"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "4",
+                        "0"
+                    ],
+                    [
+                        "4",
+                        "6"
+                    ],
+                    [
+                        "4",
+                        "3"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 4.258
+            },
+            {
+                "appearance_time": 4.265,
+                "choices": [
+                    [
+                        "4",
+                        "3"
+                    ],
+                    [
+                        "4",
+                        "2"
+                    ]
+                ],
+                "correct": 1,
+                "options": [
+                    [
+                        "3",
+                        "7"
+                    ],
+                    [
+                        "4",
+                        "3"
+                    ],
+                    [
+                        "1",
+                        "3"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 4.437
+            },
+            {
+                "appearance_time": 4.442,
+                "choices": [
+                    [
+                        "3",
+                        "2"
+                    ],
+                    [
+                        "5",
+                        "0"
+                    ]
+                ],
+                "correct": 1,
+                "options": [
+                    [
+                        "3",
+                        "2"
+                    ],
+                    [
+                        "5",
+                        "2"
+                    ],
+                    [
+                        "5",
+                        "6"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 4.605
+            }
+        ]
+    },
+    "wake_survey": {
+        "questions": [
+            {
+                "display_time": 1623444750.599,
+                "question": "\u6628\u6669\u306f\u4f55\u6642\u306b\u5e03\u56e3\u306b\u5165\u308a\u307e\u3057\u305f\u304b\uff1f",
+                "question_id": "wake_1",
+                "response_time": 1623444753.533,
+                "type": "time",
+                "value": "10:15 AM"
+            },
+            {
+                "display_time": 1623444756.61,
+                "question": "\u7720\u308a\u306b\u3064\u304f\u307e\u3067\u3069\u306e\u304f\u3089\u3044\u304b\u304b\u308a\u307e\u3057\u305f\u304b\uff1f",
+                "question_id": "wake_2",
+                "response_time": 1623444758.155,
+                "type": "duration",
+                "value": "15 min"
+            },
+            {
+                "display_time": 1623444759.065,
+                "question": "5\u5206\u9593\u307e\u305f\u306f\u305d\u308c\u4ee5\u4e0a\u76ee\u304c\u899a\u3081\u3066\u3044\u305f\u3053\u3068\u306f\u4f55\u5ea6\u3042\u308a\u307e\u3057\u305f\u304b\uff1f",
+                "question_id": "wake_3",
+                "response_time": 1623444760.389,
+                "type": "multilineText",
+                "value": "5"
+            },
+            {
+                "display_time": 1623444762.237,
+                "question": "\u4eca\u671d\u76ee\u304c\u899a\u3081\u305f\u6642\u523b\u306f\u4f55\u6642\u3067\u3057\u305f\u304b\uff1f",
+                "question_id": "wake_4",
+                "response_time": 1623444765.082,
+                "type": "time",
+                "value": "10:15 AM"
+            },
+            {
+                "display_time": 1623444766.42,
+                "question": "\u4eca\u671d\u5e03\u56e3\u304b\u3089\u51fa\u305f\u6642\u523b\u306f\u4f55\u6642\u3067\u3057\u305f\u304b\uff1f",
+                "question_id": "wake_5",
+                "response_time": 1623444771.135,
+                "type": "time",
+                "value": "10:30 AM"
+            },
+            {
+                "display_time": 1623444771.987,
+                "question": "\u7761\u7720\u306e\u8cea\u3092\u3069\u306e\u3088\u3046\u306b\u8a55\u4fa1\u3057\u307e\u3059\u304b\uff1f",
+                "question_id": "wake_6",
+                "response_time": 1623444773.503,
+                "type": "slider",
+                "value": 0.59
+            }
+        ],
+        "start_date": 1623444750.599,
+        "type": "wake"
+    },
+    "type": "cognitive"
+}

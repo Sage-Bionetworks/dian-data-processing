@@ -1,0 +1,659 @@
+{
+    "app_version": "2.4.0",
+    "day": 1,
+    "device_id": "8A2D9051-5B07-4ACF-BC85-4B78EE21A69A",
+    "finished_session": 1,
+    "id": "4",
+    "interrupted": 1,
+    "missed_session": 0,
+    "model_version": "2.1.0",
+    "participant_id": "900010",
+    "session": 3,
+    "session_date": 1586645670.9378836,
+    "session_id": "4",
+    "start_time": 1586645678.053715,
+    "week": 0,
+    "os_type": "iOS",
+    "os_version": "12.4.5",
+    "context_survey": {
+        "questions": [
+            {
+                "display_time": 1586645686.309025,
+                "question": "BEFRAGUNG ZUM KONTEXT",
+                "question_id": "start",
+                "response_time": 1586645707.756382,
+                "type": "none"
+            },
+            {
+                "display_time": 1586645707.9118109,
+                "question": "Wer ist gerade bei Ihnen?",
+                "question_id": "context_1",
+                "response_time": 1586645709.903635,
+                "text_value": "Familie",
+                "type": "checkbox",
+                "value": [
+                    2
+                ]
+            },
+            {
+                "display_time": 1586645712.033691,
+                "question": "Wo sind Sie gerade?",
+                "question_id": "context_2",
+                "response_time": 1586645713.417896,
+                "text_value": "Bei mir zu Hause",
+                "type": "choice",
+                "value": 0
+            },
+            {
+                "display_time": 1586645714.201813,
+                "question": "Wie w\u00fcrden Sie Ihre Stimmung insgesamt zum gegenw\u00e4rtigen Zeitpunkt bewerten?",
+                "question_id": "context_3",
+                "response_time": 1586645720.527195,
+                "type": "slider",
+                "value": 0.9150000214576721
+            },
+            {
+                "display_time": 1586645721.2429628,
+                "question": "Wie w\u00fcrden Sie bewerten, wie Sie sich zum gegenw\u00e4rtigen Zeitpunkt f\u00fchlen?",
+                "question_id": "context_4",
+                "response_time": 1586645726.231361,
+                "type": "slider",
+                "value": 0.4124999940395355
+            },
+            {
+                "display_time": 1586645726.779976,
+                "question": "Was haben Sie in den letzten 5 Minuten haupts\u00e4chlich getan?",
+                "question_id": "context_5",
+                "response_time": 1586645732.770978,
+                "text_value": "Soziale Kontakte pflegen",
+                "type": "choice",
+                "value": 6
+            }
+        ],
+        "start_date": 1586645686.316832,
+        "type": "context"
+    },
+    "grid_test": {
+        "date": 1586645802.848577,
+        "sections": [
+            {
+                "choices": [
+                    {
+                        "x": 3,
+                        "y": 0,
+                        "grid_selection_time": 17.863322973251343,
+                        "image_selection_time": "NA",
+                        "image": "NA"
+                    },
+                    {
+                        "x": 4,
+                        "y": 2,
+                        "grid_selection_time": 20.02984595298767,
+                        "image_selection_time": "NA",
+                        "image": "NA"
+                    },
+                    {
+                        "x": 4,
+                        "y": 3,
+                        "grid_selection_time": 21.063323974609375,
+                        "image_selection_time": "NA",
+                        "image": "NA"
+                    }
+                ],
+                "display_distraction": 5.072837948799133,
+                "display_symbols": 2.0410690307617188,
+                "display_test_grid": 17.126542925834656,
+                "e_count": 0,
+                "f_count": 5,
+                "images": [
+                    {
+                        "image": "key",
+                        "x": 3,
+                        "y": 0
+                    },
+                    {
+                        "image": "phone",
+                        "x": 4,
+                        "y": 2
+                    },
+                    {
+                        "image": "pen",
+                        "x": 4,
+                        "y": 3
+                    }
+                ]
+            },
+            {
+                "choices": [
+                    {
+                        "x": 0,
+                        "y": 1,
+                        "grid_selection_time": 40.81447696685791,
+                        "image_selection_time": "NA",
+                        "image": "NA"
+                    },
+                    {
+                        "x": 1,
+                        "y": 0,
+                        "grid_selection_time": 40.99815893173218,
+                        "image_selection_time": "NA",
+                        "image": "NA"
+                    },
+                    {
+                        "x": 4,
+                        "y": 4,
+                        "grid_selection_time": 41.64762794971466,
+                        "image_selection_time": "NA",
+                        "image": "NA"
+                    }
+                ],
+                "display_distraction": 28.189170002937317,
+                "display_symbols": 25.155916929244995,
+                "display_test_grid": 40.24825203418732,
+                "e_count": 0,
+                "f_count": 6,
+                "images": [
+                    {
+                        "image": "pen",
+                        "x": 1,
+                        "y": 0
+                    },
+                    {
+                        "image": "phone",
+                        "x": 0,
+                        "y": 2
+                    },
+                    {
+                        "image": "key",
+                        "x": 4,
+                        "y": 4
+                    }
+                ]
+            }
+        ],
+        "type": "gridTest"
+    },
+    "price_test": {
+        "date": 1586645796.588217,
+        "sections": [
+            {
+                "alt_price": "8,47",
+                "correct_index": 0,
+                "good_price": 1,
+                "item": "haferflocken",
+                "price": "2,83",
+                "question_display_time": 40.499104142189026,
+                "selected_index": 0,
+                "selection_time": 41.781888127326965,
+                "stimulus_display_time": 0.04173111915588379
+            },
+            {
+                "alt_price": "3,74",
+                "correct_index": 0,
+                "good_price": 0,
+                "item": "handcreme",
+                "price": "6,74",
+                "question_display_time": 46.95204317569733,
+                "selected_index": 0,
+                "selection_time": 48.951178193092346,
+                "stimulus_display_time": 3.088922142982483
+            },
+            {
+                "alt_price": "5,18",
+                "correct_index": 1,
+                "good_price": 1,
+                "item": "wattest\u00e4bchen",
+                "price": "2,58",
+                "question_display_time": 38.98560309410095,
+                "selected_index": 1,
+                "selection_time": 40.48117816448212,
+                "stimulus_display_time": 6.1318511962890625
+            },
+            {
+                "alt_price": "6,47",
+                "correct_index": 0,
+                "good_price": 1,
+                "item": "bleistift",
+                "price": "3,94",
+                "question_display_time": 45.59960114955902,
+                "selected_index": 0,
+                "selection_time": 46.93445813655853,
+                "stimulus_display_time": 9.180188179016113
+            },
+            {
+                "alt_price": "8,31",
+                "correct_index": 0,
+                "good_price": 0,
+                "item": "sp\u00fclmittel",
+                "price": "6,83",
+                "question_display_time": 41.7991281747818,
+                "selected_index": 0,
+                "selection_time": 43.331693172454834,
+                "stimulus_display_time": 12.230882167816162
+            },
+            {
+                "alt_price": "1,57",
+                "correct_index": 0,
+                "good_price": 1,
+                "item": "haseln\u00fcsse",
+                "price": "5,34",
+                "question_display_time": 37.29771316051483,
+                "selected_index": 0,
+                "selection_time": 38.96798920631409,
+                "stimulus_display_time": 15.281221151351929
+            },
+            {
+                "alt_price": "3,91",
+                "correct_index": 1,
+                "good_price": 1,
+                "item": "kerze",
+                "price": "6,18",
+                "question_display_time": 35.36434817314148,
+                "selected_index": 1,
+                "selection_time": 37.28073513507843,
+                "stimulus_display_time": 18.331706166267395
+            },
+            {
+                "alt_price": "9,23",
+                "correct_index": 1,
+                "good_price": 1,
+                "item": "nudeln",
+                "price": "3,67",
+                "question_display_time": 44.498836159706116,
+                "selected_index": 1,
+                "selection_time": 45.582351207733154,
+                "stimulus_display_time": 21.3775771856308
+            },
+            {
+                "alt_price": "8,61",
+                "correct_index": 0,
+                "good_price": 1,
+                "item": "limonade",
+                "price": "1,78",
+                "question_display_time": 43.34933412075043,
+                "selected_index": 0,
+                "selection_time": 44.48138618469238,
+                "stimulus_display_time": 24.425594091415405
+            },
+            {
+                "alt_price": "5,64",
+                "correct_index": 1,
+                "good_price": 1,
+                "item": "buch",
+                "price": "2,51",
+                "question_display_time": 48.96894311904907,
+                "selected_index": 1,
+                "selection_time": 50.63522112369537,
+                "stimulus_display_time": 27.479700207710266
+            }
+        ],
+        "type": "priceTest"
+    },
+    "symbol_test": {
+        "date": 1586645855.4689379,
+        "sections": [
+            {
+                "appearance_time": 0.019093155860900886,
+                "choices": [
+                    [
+                        "0",
+                        "4"
+                    ],
+                    [
+                        "2",
+                        "7"
+                    ]
+                ],
+                "correct": 1,
+                "options": [
+                    [
+                        "0",
+                        "4"
+                    ],
+                    [
+                        "0",
+                        "3"
+                    ],
+                    [
+                        "5",
+                        "6"
+                    ]
+                ],
+                "selected": 1,
+                "selection_time": 1.6939531564712524
+            },
+            {
+                "appearance_time": 1.7744081020355225,
+                "choices": [
+                    [
+                        "3",
+                        "0"
+                    ],
+                    [
+                        "5",
+                        "6"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "7",
+                        "5"
+                    ],
+                    [
+                        "0",
+                        "6"
+                    ],
+                    [
+                        "5",
+                        "6"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 3.110680103302002
+            },
+            {
+                "appearance_time": 3.187049150466919,
+                "choices": [
+                    [
+                        "0",
+                        "7"
+                    ],
+                    [
+                        "3",
+                        "2"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "3",
+                        "2"
+                    ],
+                    [
+                        "3",
+                        "0"
+                    ],
+                    [
+                        "3",
+                        "5"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 4.543782114982605
+            },
+            {
+                "appearance_time": 4.61734414100647,
+                "choices": [
+                    [
+                        "2",
+                        "3"
+                    ],
+                    [
+                        "3",
+                        "0"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "4",
+                        "0"
+                    ],
+                    [
+                        "3",
+                        "0"
+                    ],
+                    [
+                        "0",
+                        "1"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 6.593929171562195
+            },
+            {
+                "appearance_time": 6.667811155319214,
+                "choices": [
+                    [
+                        "7",
+                        "6"
+                    ],
+                    [
+                        "4",
+                        "7"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "5",
+                        "7"
+                    ],
+                    [
+                        "4",
+                        "7"
+                    ],
+                    [
+                        "3",
+                        "2"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 8.477630138397217
+            },
+            {
+                "appearance_time": 8.55688214302063,
+                "choices": [
+                    [
+                        "7",
+                        "0"
+                    ],
+                    [
+                        "3",
+                        "1"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "3",
+                        "4"
+                    ],
+                    [
+                        "4",
+                        "0"
+                    ],
+                    [
+                        "3",
+                        "1"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 10.111714124679565
+            },
+            {
+                "appearance_time": 10.18858516216278,
+                "choices": [
+                    [
+                        "5",
+                        "6"
+                    ],
+                    [
+                        "5",
+                        "4"
+                    ]
+                ],
+                "correct": 1,
+                "options": [
+                    [
+                        "5",
+                        "6"
+                    ],
+                    [
+                        "0",
+                        "6"
+                    ],
+                    [
+                        "3",
+                        "7"
+                    ]
+                ],
+                "selected": 1,
+                "selection_time": 11.794159173965454
+            },
+            {
+                "appearance_time": 11.869592070579529,
+                "choices": [
+                    [
+                        "0",
+                        "3"
+                    ],
+                    [
+                        "5",
+                        "0"
+                    ]
+                ],
+                "correct": 1,
+                "options": [
+                    [
+                        "1",
+                        "2"
+                    ],
+                    [
+                        "0",
+                        "3"
+                    ],
+                    [
+                        "2",
+                        "7"
+                    ]
+                ],
+                "selected": 1,
+                "selection_time": 13.727818131446838
+            },
+            {
+                "appearance_time": 13.810579180717468,
+                "choices": [
+                    [
+                        "7",
+                        "3"
+                    ],
+                    [
+                        "4",
+                        "1"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "0",
+                        "6"
+                    ],
+                    [
+                        "4",
+                        "1"
+                    ],
+                    [
+                        "7",
+                        "1"
+                    ]
+                ],
+                "selected": 1,
+                "selection_time": 15.277756094932556
+            },
+            {
+                "appearance_time": 15.357400178909302,
+                "choices": [
+                    [
+                        "5",
+                        "6"
+                    ],
+                    [
+                        "5",
+                        "7"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "2",
+                        "0"
+                    ],
+                    [
+                        "5",
+                        "7"
+                    ],
+                    [
+                        "6",
+                        "4"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 17.57800316810608
+            },
+            {
+                "appearance_time": 17.657278180122375,
+                "choices": [
+                    [
+                        "0",
+                        "3"
+                    ],
+                    [
+                        "2",
+                        "7"
+                    ]
+                ],
+                "correct": 2,
+                "options": [
+                    [
+                        "2",
+                        "7"
+                    ],
+                    [
+                        "6",
+                        "3"
+                    ],
+                    [
+                        "7",
+                        "4"
+                    ]
+                ],
+                "selected": 2,
+                "selection_time": 19.828020095825195
+            },
+            {
+                "appearance_time": 19.90813410282135,
+                "choices": [
+                    [
+                        "1",
+                        "6"
+                    ],
+                    [
+                        "3",
+                        "6"
+                    ]
+                ],
+                "correct": 1,
+                "options": [
+                    [
+                        "1",
+                        "6"
+                    ],
+                    [
+                        "3",
+                        "5"
+                    ],
+                    [
+                        "1",
+                        "5"
+                    ]
+                ],
+                "selected": 1,
+                "selection_time": 20.979310154914856
+            }
+        ],
+        "type": "symbolsTest"
+    },
+    "type": "cognitive"
+}
